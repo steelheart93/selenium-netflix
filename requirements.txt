@@ -1,0 +1,4 @@
+# Archivo generado con el comando "pipreqs", para mayor información:
+# https://stackoverflow.com/questions/61077955/requirements-txt-from-import-statements
+
+selenium==4.0.0
