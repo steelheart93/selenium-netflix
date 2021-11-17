@@ -47,7 +47,7 @@ def pin_numbers(browser):
     try:
         numbers = browser.find_elements(By.CLASS_NAME, "pin-number-input")
 
-        for i in range(300, 10000):
+        for i in range(0, 10000):
             n = list(map(int, str(i)))
 
             time.sleep(0.1)
